@@ -1,0 +1,11 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "This is a basic todo list app that will add and delete data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shivansh sinha",
+  "license": "ISC"
+}
